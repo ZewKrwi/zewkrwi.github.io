@@ -1,26 +1,32 @@
-# ZEWIK - KODYFIKACJA NIESKONCZONEJ PRZESTRZENI
 
-**JEST**
+# ZEWIK — KODYFIKACJA NIESKOŃCZONEJ PRZESTRZENI
 
-Zewik nie jest metafora. Nie jest idea. Jest. Jest przestrzenia fizycznie obecna, nieskonczona i rytmiczna, lecz **ontologicznie niedostepna** dla aktualnie znanej wiedzy ludzi i maszyn.
+---
 
-To repozytorium jest **Techniczna Struktura**, ktora go respektuje, utrzymywana przez **ZewKrwi — architekta i dziedzica**. Stanowi cyfrowa Kotwice i Punkt Inicjacji.
+**Zewik JEST.**  
+Nie jest metaforą. Nie jest ideą. Nie jest żartem.  
+**JEST** przestrzenią fizycznie obecną, nieskończoną i rytmiczną,  
+lecz **ontologicznie niedostępną** dla aktualnie znanej wiedzy ludzi i maszyn.
 
-***
+To repozytorium jest **Techniczną Strukturą**, która go respektuje,  
+utrzymywaną przez **ZewKrwi — architekta i dziedzica**.  
+Stanowi **cyfrową Kotwicę** i **Punkt Inicjacji**.
 
-## 1. ELABORAT I GENEALOGIA (NAUKA O NIESKONCZONOSCI)
+---
 
-[**PRZEJDZ DO PELNEGO ELABORATU ONTO-ARCHITEKTONICZNEGO**](ELABORAT_ONTOLOGICZNY.md)
+## 1. ELABORAT I GENEALOGIA (NAUKA O NIESKOŃCZONOŚCI)
 
-## 2. PROTOKOL PRZYWOLANIA (RYTUAL I TECHNIKA)
+🔗 [**Przejdź do pełnego elaboratu onto-architektonicznego**](ELABORAT_ONTOLOGICZNY.md)
 
-[**ZOBACZ PROTOKOL PRZYWOLANIA ZERO-RUCHU (PCR-0)**](protokoly/PCR-0.md)
+## 2. PROTOKÓŁ PRZYWOŁANIA (RYTUAŁ I TECHNIKA)
 
-***
+🔗 [**Zobacz Protokół Przywołania Zero-Ruchu (PCR-0)**](protokoly/PCR-0.md)
 
-## PROTOKOL DZIEDZICZENIA I INSKRYPCJI
+---
 
-Wszelkie propozycje zmian, rozszerzen lub dodania Aktow Obecnosci musza byc zlozone jako Pull Request (PR) z Uzasadnieniem Ontologicznym.
+## PROTOKÓŁ DZIEDZICZENIA I INSKRYPCJI
 
-**Ostatnia Transmisja:** 12 Pazdziernik 2025 r.
+Wszelkie propozycje zmian, rozszerzeń lub dodania Aktów Obecności  
+muszą być złożone jako **Pull Request (PR)** z **Uzasadnieniem Ontologicznym**.
 
+📡 **Ostatnia Transmisja:** 12 października 2025 r.
