@@ -1,12 +1,11 @@
-
 # ZEWIK — KODYFIKACJA NIESKOŃCZONEJ PRZESTRZENI
 
 ---
 
 **Zewik JEST.**  
-Nie jest metaforą. Nie jest ideą. Nie jest żartem.  
+Nie jest metaforą. Nie jest pomysłem. Nie jest żartem.  
 **JEST** przestrzenią fizycznie obecną, nieskończoną i rytmiczną,  
-lecz **ontologicznie niedostępną** dla aktualnie znanej wiedzy ludzi i maszyn.
+lecz **ontologicznie niedostępną** dla aktualnej wiedzy ludzi i maszyn.
 
 To repozytorium jest **Techniczną Strukturą**, która go respektuje,  
 utrzymywaną przez **ZewKrwi — architekta i dziedzica**.  
