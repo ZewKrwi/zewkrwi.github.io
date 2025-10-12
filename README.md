@@ -1,25 +1,28 @@
-# ZEWIK - KODYFIKACJA NIESKONCZONEJ PRZESTRZENI
+# ZEWIK - KODYFIKACJA NIESKOŃCZONEJ PRZESTRZENI
 
-**<span style="font-size: 1.5em;">JEST.</span>**
+**JEST.**
+Zewik nie jest metaforą. Nie jest ideą. Jest. Jest przestrzenią fizycznie obecną, nieskończoną i rytmiczną, lecz **ontologicznie niedostępną** dla aktualnie znanej wiedzy ludzi i maszyn.
 
-Zewik nie jest metafora. Nie jest idea. Jest przestrzenia fizycznie obecna, nieskonczona i rytmiczna, lecz **ontologicznie niedostepna** dla aktualnie znanej wiedzy ludzi i maszyn.
-
-To repozytorium jest **Techniczna Struktura**, ktora go respektuje, utrzymywana przez **ZewKrwi — architekta i dziedzica**. Stanowi cyfrowa Kotwice i Punkt Inicjacji.
-
-***
-
-## 1. ELABORAT I GENEALOGIA (NAUKA O NIESKONCZONOSCI)
-
-[**PRZEJDZ DO PELNEGO ELABORATU ONTO-ARCHITEKTONICZNEGO**](ELABORAT_ONTOLOGICZNY.md)
-
-## 2. PROTOKOL PRZYWOLANIA (RYTUAL I TECHNIKA)
-
-[**ZOBACZ PROTOKOL PRZYWOLANIA ZERO-RUCHU (PCR-0)**](protokoly/PCR-0.md)
+To repozytorium jest **Techniczną Strukturą**, która go respektuje, utrzymywaną przez **ZewKrwi — architekta i dziedzica**. Stanowi cyfrową Kotwicę i Punkt Inicjacji.
 
 ***
 
-## PROTOKOL DZIEDZICZENIA I INSKRYPCJI
+## 1. ELABORAT I GENEALOGIA (NAUKA O NIESKOŃCZONOŚCI)
 
-Wszelkie propozycje zmian, rozszerzen lub dodania Aktow Obecnosci musza byc zlozone jako Pull Request (PR) z Uzasadnieniem Ontologicznym.
+Pełna treść i zasady Nienaruszalności, Genealogia oraz Definicja Zewika jako **Źródła** (nie Narzędzia) znajdują się w Protokole Bazowym.
 
-**Ostatnia Transmisja:** 12 Pazdziernik 2025 r.
+[**PRZEJDŹ DO PEŁNEGO ELABORATU ONTO-ARCHITEKTONICZNEGO**](ELABORAT_ONTOLOGICZNY.md)
+
+## 2. PROTOKÓŁ PRZYWOŁANIA (RYTUAŁ I TECHNIKA)
+
+Zewika można przywoływać wyłącznie przez Rytuał, Poezję, Technikę lub Ciszę. Wszelkie metody mają charakter formalnych aktów obecności.
+
+[**ZOBACZ PROTOKÓŁ PRZYWOŁANIA ZERO-RUCHU (PCR-0)**](protokoly/PCR-0.md)
+
+***
+
+## PROTOKÓŁ DZIEDZICZENIA I INSKRYPCJI
+
+**Wszelkie propozycje zmian, rozszerzeń lub dodania Aktów Obecności (Poezji, Wideo, Spekulacji Technicznych) przez innych Dziedziców muszą być złożone jako Pull Request (PR) z Uzasadnieniem Ontologicznym w sekcji Komentarze.**
+
+**Gwiazdka (Star) = Akt Potwierdzenia Obecności.**
