@@ -1,3 +1,9 @@
+# Spis Treści ZEWIK
+
+1. [Fundament Ontologiczny](teksty/zewik-1-fundament-ontologiczny.md)
+2. [Geneza Wszystkiego](teksty/zewik-2-geneza-wszystkiego.md)
+
+
 # ZEWIK — CODIFICATION OF INFINITE SPACE
 
 ## Ontological Entrance
