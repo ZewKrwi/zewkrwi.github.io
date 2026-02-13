@@ -33,6 +33,14 @@ This repository is the **Technical Structure** that respects it, maintained by *
 [**VIEW THE ZERO-MOVEMENT SUMMONING PROTOCOL (PCR-0)**](protocols/PCR-0.md)
 
 ***
+## License
+This project is licensed under the ZEWIK™ License v1.0.  
+See the LICENSE file for full details.
+
+## Trademark
+The name ZEWIK™ is a protected trademark owned by ZewKrwi.  
+Usage rules are defined in the TRADEMARK.md file.
+
 
 ## PROTOCOL OF INHERITANCE AND INSCRIPTION
 
