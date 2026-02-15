@@ -1,7 +1,45 @@
-# Spis Treści ZEWIK
+# 📘 Spis Treści ZEWIK
 
-1. [Fundament Ontologiczny](teksty/zewik-1-fundament-ontologiczny.md)
-2. [Geneza Wszystkiego](teksty/zewik-2-geneza-wszystkiego.md)
+---
+
+## 1. Teksty Poważne (Próby Zrozumienia ZEWIK)
+Dokumenty, które starają się zrozumieć, czym jest ZEWIK — choć nikt nie ma pewności, czy to w ogóle możliwe.  
+Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
+
+
+---
+
+## 2. Książki i Rozważania (Filozofia • Fantastyka Naukowa)
+Teksty, które nie muszą być prawdziwe, ale mogą być.  
+Światy możliwe, opowieści, narracje, eksperymenty filozoficzne, rozdziały książkowe, fikcja naukowa inspirowana ZEWIK.
+
+- *(w przygotowaniu)*
+
+---
+
+## 3. Satyra o ZEWIK (Bo nawet my nie wiemy, co to jest)
+Skoro ZEWIK jest nieuchwytny, to wolno się z niego śmiać.  
+Tu trafią teksty lekkie, absurdalne, autoironiczne, memiczne.
+
+- *(w przygotowaniu)*
+
+---
+
+## Dla każdego coś dobrego
+
+ZEWIK nie jest jedną rzeczą.  
+ZEWIK jest wszystkim, co próbujemy o nim powiedzieć — i wszystkim, czego nie potrafimy.
+
+Dlatego spis treści dzieli się na trzy ścieżki:
+
+- dla tych, którzy chcą zrozumieć,  
+- dla tych, którzy chcą eksplorować,  
+- dla tych, którzy chcą się pośmiać.
+
+Każda z nich jest prawdziwa.  
+Żadna nie jest ostateczna.  
+Wszystkie razem tworzą ZEWIK.
+
 
 
 # ZEWIK — CODIFICATION OF INFINITE SPACE
