@@ -5,6 +5,8 @@
 ## 1. Teksty Poważne (Próby Zrozumienia ZEWIK)
 Dokumenty, które starają się zrozumieć, czym jest ZEWIK — choć nikt nie ma pewności, czy to w ogóle możliwe.  
 Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
+- ZEWIK 01 — PL — [Narodziny Zewik](teksty/Narodziny_Zewik_PL.md)
+- ZEWIK 01 — EN — [The Birth of Zewik](teksty/The_Birth_of_Zewik_EN.md)
 
 
 ---
