@@ -77,3 +77,15 @@ ZEWIK 02 marks the stabilization of the Ontological Essence and the introduction
 
 The ocean remains infinite.  
 Our lamp grows brighter.
+---
+
+## Visual Supplement: Origin of the Signal
+
+This short conceptual animation illustrates the perceptual side of our position within the substrate.  
+It does not depict ZEWIK, nor does it attempt to visualize the Absolute.  
+Instead, it shows the beginning of a signal originating deep within the cosmos —  
+a reminder of how far we remain from any true boundary, and how narrow the radius of our lamp truly is.
+
+**YouTube:** https://youtu.be/tQMMNEgeubc?si=DZiyk9H17E1Ons61 
+*(Conceptual animation — digital, non‑representational, not real cosmic footage.)*
+
