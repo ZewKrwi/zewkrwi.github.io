@@ -12,6 +12,7 @@ Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
 
 
 
+
 ---
 
 ## 2. Książki i Rozważania (Filozofia • Fantastyka Naukowa)
