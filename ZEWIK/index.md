@@ -7,6 +7,9 @@ Dokumenty, które starają się zrozumieć, czym jest ZEWIK — choć nikt nie m
 Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
 - ZEWIK 01 — PL — [Narodziny Zewik](teksty/Narodziny_Zewik_PL.md)
 - ZEWIK 01 — EN — [The Birth of Zewik](teksty/The_Birth_of_Zewik_EN.md)
+- ZEWIK 02 — PL — [Esencja Ontologiczna: ZEWIK i Bryły Ostateczne](teksty/Zewik_02_PL.md)
+- ZEWIK 02 — EN — [The Ontological Essence: ZEWIK and the Final Solids](teksty/Zewik_02_EN.md)
+
 
 
 ---
