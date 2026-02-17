@@ -9,8 +9,8 @@ Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
 - ZEWIK 01 — EN — [The Birth of Zewik](teksty/The_Birth_of_Zewik_EN.md)
 - ZEWIK 02 — PL — [Esencja Ontologiczna: ZEWIK i Bryły Ostateczne](teksty/Zewik_02_PL.md)
 - ZEWIK 02 — EN — [The Ontological Essence: ZEWIK and the Final Solids](teksty/Zewik_02_EN.md)
-- [ZEWIK 03 — PL — Granica ZEWIK: Anatomia Ontologicznej Membrany](teksty/Zewik_03_PL.md)
-- [ZEWIK 03 — EN — The ZEWIK Boundary: Anatomy of the Ontological Membrane](teksty/Zewik_03_EN.md)
+- ZEWIK 03 — PL — [Granica ZEWIK: Anatomia Ontologicznej Membrany](teksty/Zewik_03_PL.md)
+- ZEWIK 03 — EN — [The ZEWIK Boundary: Anatomy of the Ontological Membrane](teksty/Zewik_03_EN.md)
 
 
 
