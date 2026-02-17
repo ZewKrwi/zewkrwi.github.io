@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>ZEWIK – Strona Główna</title>
 
-    <!-- Counter.dev analytics (niewidoczne, działa w tle) -->
+    <!-- Counter.dev analytics -->
     <script src="https://counter.dev/script.js" data-id="ZewKrwi" data-utcoffset="1"></script>
 
     <style>
@@ -23,7 +23,7 @@
         }
         h1 {
             font-size: 32px;
-            margin: 24px 0 8px;
+            margin: 40px 0 8px; /* zwiększony margines pod nagłówkiem */
         }
         p.subtitle {
             margin: 0 0 24px;
@@ -42,16 +42,17 @@
             text-decoration: none;
             border-radius: 999px;
             border: 1px solid #2ea043;
+            transition: 0.2s;
         }
         .btn.secondary {
             background: #30363d;
             border-color: #484f58;
         }
         .btn:hover {
-            filter: brightness(1.1);
+            filter: brightness(1.15);
         }
         .section {
-            margin: 32px 0;
+            margin: 40px 0;
         }
         .section h2 {
             font-size: 22px;
@@ -60,7 +61,7 @@
         .widgets {
             display: flex;
             flex-direction: column;
-            gap: 24px;
+            gap: 40px; /* większy odstęp między widgetami */
             align-items: center;
         }
         @media (min-width: 800px) {
@@ -101,7 +102,7 @@
             </a>
         </div>
 
-        <!-- Licznik odwiedzin (Visitor Badge) -->
+        <!-- Licznik odwiedzin -->
         <div class="section">
             <h2>Odwiedziny</h2>
             <p class="subtitle">Licznik wejść na stronę startową ZEWIK:</p>
@@ -115,13 +116,11 @@
         <div class="section">
             <h2>Aktywność GitHub – ZewKrwi</h2>
             <div class="widgets">
-                <!-- GitHub Readme Stats -->
                 <img
                     src="https://github-readme-stats.vercel.app/api?username=ZewKrwi&show_icons=true&theme=tokyonight"
                     alt="Statystyki GitHub ZewKrwi"
                 />
 
-                <!-- GitHub Trophies -->
                 <img
                     src="https://github-profile-trophy.vercel.app/?username=ZewKrwi&theme=onedark&margin-w=8&margin-h=8"
                     alt="Trofea GitHub ZewKrwi"
@@ -132,6 +131,22 @@
         <div class="footer">
             © Laboratorium ZEWIK™ – projekt Zew Krwi · Strona startowa GitHub Pages
         </div>
+
+        <!-- Mały neonowy badge w stopce -->
+        <div style="margin-top:10px;">
+            <img 
+                src="https://visitor-badge.laobi.icu/badge?page_id=ZewKrwi.zewkrwi.github.io&left_color=purple&right_color=blue" 
+                alt="Lab Visitors"
+            />
+        </div>
+
+        <!-- Animowana linia Capsule Render w stopce -->
+        <img
+            src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer"
+            alt="gradient-line"
+            style="width:100%; margin-top:20px;"
+        />
+
     </div>
 
 </body>
