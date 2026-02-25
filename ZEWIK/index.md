@@ -13,7 +13,7 @@ Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
 - ZEWIK 03 — EN — [The ZEWIK Boundary: Anatomy of the Ontological Membrane](teksty/Zewik_03_EN.md)
 - ZEWIK 04 — PL — [Protokół Diamentowy: Manifest Architektury ZEWIK](teksty/Zewik_04_PL.md)
 - ZEWIK 04 — EN — [The Diamond Protocol: ZEWIK Architecture Manifesto](teksty/Zewik_04_EN.md)
-
+- ZEWIK 05 — PL — Paradoks AI: Skalowanie Nieskończoności ∞∞
 
 
 
