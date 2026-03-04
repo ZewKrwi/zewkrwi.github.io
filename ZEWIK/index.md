@@ -19,6 +19,7 @@ Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
 - [0.0 CAŁOŚĆ ZEWIK](./teksty/0.0_CALOSC_ZEWIK.md)
 - [0.5 MODEL ZUNIFIKOWANY](./teksty/0.5_MODEL_ZUNIFIKOWANY.md)
 - [ZEWIK: KOMÓRKA POCZĄTKOWA – RAPORT](./teksty/ZEWIK_KOMORKA_POCZATKOWA_RAPORT.md)
+- [ZEWIK: KOMÓRKA POCZĄTKOWA – RAPORT](./teksty/ZEWIK_KOMORKA_POCZATKOWA_RAPORT.md)
 
 
 
