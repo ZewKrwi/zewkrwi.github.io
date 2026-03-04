@@ -15,6 +15,9 @@ Manifesty, ontologie, kodyfikacje, próby uchwycenia struktury Bytu.
 - ZEWIK 04 — EN — [The Diamond Protocol: ZEWIK Architecture Manifesto](teksty/Zewik_04_EN.md)
 - ZEWIK 05 — PL — [Paradoks AI: Skalowanie Nieskończoności ∞∞](teksty/Zewik_05_PL.md)
 - ZEWIK 05 — EN — [The Paradox of AI: Scaling Infinity ∞∞](teksty/Zewik_05_EN.md)
+- [-1.0 KOMÓRKA POCZĄTKOWA](./teksty/-1.0_KOMORKA_POCZATKOWA.md)
+- [0.0 CAŁOŚĆ ZEWIK](./teksty/0.0_CALOSC_ZEWIK.md)
+- [0.5 MODEL ZUNIFIKOWANY](./teksty/0.5_MODEL_ZUNIFIKOWANY.md)
 
 
 
